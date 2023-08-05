@@ -1,4 +1,4 @@
-# ChatterBox[abhishekservi.pythonanywhere.com](https://abhishekservi.pythonanywhere.com/)
+# [ChatterBox](https://abhishekservi.pythonanywhere.com/)
 Here is my live link for the project => [abhishekservi.pythonanywhere.com](https://abhishekservi.pythonanywhere.com/)
 <br/>
 
